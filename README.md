@@ -1,4 +1,4 @@
-# PassCombinator 介绍文档
+# PassCombinator 密码组合恢复工具
 
 ## 介绍
 PassCombinator 是一个专为用户设计的工具，可以根据提供的密码片段生成可能的密码组合列表。它简单、高效，并可以帮助您快速找回或验证密码。
